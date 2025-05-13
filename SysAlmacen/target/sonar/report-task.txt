@@ -1,0 +1,6 @@
+projectKey=pe.edu.upeu:SysAlmacen
+serverUrl=http://localhost:9000
+serverVersion=10.2.1.78527
+dashboardUrl=http://localhost:9000/dashboard?id=pe.edu.upeu%3ASysAlmacen
+ceTaskId=AZZfpz8UZmCJMSxznTc1
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AZZfpz8UZmCJMSxznTc1
