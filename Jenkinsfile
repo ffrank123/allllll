@@ -10,10 +10,10 @@ pipeline {
         stage('Clone') {
             steps {
                 timeout(time: 2, unit: 'MINUTES'){
-                    git branch: 'main', credentialsId: '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', url: 'https://github.com/ffrank123/allllll.git'
+                    git branch: 'main', credentialsId: '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', url: 'https://github.com/ffrank123/allllll.git'
                 }
             }
-            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
+            
         }
         stage('Build') {
             steps {
