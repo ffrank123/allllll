@@ -5,91 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="23d75ba3-37f0-4591-a812-47392fa02345" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-dev.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application-dev.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/control/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/control/AuthController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/control/LanguageController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/control/LanguageController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/control/ProductoController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/control/ProductoController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/AccesoDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/AccesoDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/CategoriaDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/CategoriaDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/ClienteDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/ClienteDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/MarcaDTO$MarcaDTOBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/MarcaDTO$MarcaDTOBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/MarcaDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/MarcaDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/ProductoDTO$ProductoCADto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/ProductoDTO$ProductoCADto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/ProductoDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/ProductoDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/UnidadMedidaDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/UnidadMedidaDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/UsuarioDTO$CredencialesDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/UsuarioDTO$CredencialesDto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/UsuarioDTO$UsuarioCrearDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/UsuarioDTO$UsuarioCrearDto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/UsuarioDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/UsuarioDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/VentCarritoDTO$VentCarritoCADTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/VentCarritoDTO$VentCarritoCADTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/VentCarritoDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/VentCarritoDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/VentaDTO$VentaCADTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/VentaDTO$VentaCADTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/VentaDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/VentaDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/VentaDetalleDTO$VentaDetalleCADTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/VentaDetalleDTO$VentaDetalleCADTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/VentaDetalleDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/dtos/VentaDetalleDTO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/excepciones/CustomResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/excepciones/CustomResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/excepciones/RestExceptionHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/excepciones/RestExceptionHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Acceso$AccesoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Acceso$AccesoBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Acceso.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Acceso.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/AccesoRol$AccesoRolBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/AccesoRol$AccesoRolBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/AccesoRol.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/AccesoRol.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Categoria$CategoriaBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Categoria$CategoriaBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Categoria.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Categoria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Cliente$ClienteBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Cliente$ClienteBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/CompCarrito$CompCarritoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/CompCarrito$CompCarritoBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/CompCarrito.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/CompCarrito.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Compra$CompraBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Compra$CompraBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Compra.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Compra.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/CompraDetalle$CompraDetalleBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/CompraDetalle$CompraDetalleBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/CompraDetalle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/CompraDetalle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Emisor$EmisorBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Emisor$EmisorBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Emisor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Emisor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Marca$MarcaBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Marca$MarcaBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Marca.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Marca.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/MediaFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/MediaFile.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Producto$ProductoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Producto$ProductoBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Producto.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Producto.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Proveedor$ProveedorBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Proveedor$ProveedorBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Proveedor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Proveedor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Rol$RolBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Rol$RolBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Rol.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Rol.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/UnidadMedida$UnidadMedidaBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/UnidadMedida$UnidadMedidaBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/UnidadMedida.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/UnidadMedida.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Usuario$UsuarioBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Usuario$UsuarioBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Usuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Usuario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/UsuarioRol$UsuarioRolBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/UsuarioRol$UsuarioRolBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/UsuarioRol.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/UsuarioRol.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/VentCarrito$VentCarritoBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/VentCarrito$VentCarritoBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/VentCarrito.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/VentCarrito.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Venta$VentaBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Venta$VentaBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Venta.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/Venta.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/VentaDetalle$VentaDetalleBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/VentaDetalle$VentaDetalleBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/VentaDetalle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/modelo/VentaDetalle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/security/AuthorizeLogic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/security/AuthorizeLogic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/security/JwtRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/security/JwtRequest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/security/JwtResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/security/JwtResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/security/JwtTokenUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/security/JwtTokenUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/security/JwtUserDetailsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/security/JwtUserDetailsService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/security/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/security/WebSecurityConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/servicio/impl/CrudGenericoServiceImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/servicio/impl/CrudGenericoServiceImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/servicio/impl/ProductoServiceImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/servicio/impl/ProductoServiceImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/servicio/impl/UsuarioServiceImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/servicio/impl/UsuarioServiceImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/servicio/impl/VentCarritoServiceImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/servicio/impl/VentCarritoServiceImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/servicio/impl/VentaDetalleServiceImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/servicio/impl/VentaDetalleServiceImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/servicio/impl/VentaServiceImp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pe/edu/upeu/sysalmacen/servicio/impl/VentaServiceImp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/pe/edu/upeu/sysalmacen/mappers/AccesoMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/annotations/pe/edu/upeu/sysalmacen/mappers/AccesoMapperImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/pe/edu/upeu/sysalmacen/mappers/CategoriaMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/annotations/pe/edu/upeu/sysalmacen/mappers/CategoriaMapperImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/pe/edu/upeu/sysalmacen/mappers/ClienteMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/annotations/pe/edu/upeu/sysalmacen/mappers/ClienteMapperImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/pe/edu/upeu/sysalmacen/mappers/MarcaMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/annotations/pe/edu/upeu/sysalmacen/mappers/MarcaMapperImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/pe/edu/upeu/sysalmacen/mappers/ProductoMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/annotations/pe/edu/upeu/sysalmacen/mappers/ProductoMapperImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/pe/edu/upeu/sysalmacen/mappers/UnidadMedidaMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/annotations/pe/edu/upeu/sysalmacen/mappers/UnidadMedidaMapperImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/pe/edu/upeu/sysalmacen/mappers/UsuarioMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/annotations/pe/edu/upeu/sysalmacen/mappers/UsuarioMapperImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/pe/edu/upeu/sysalmacen/mappers/VentCarritoMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/annotations/pe/edu/upeu/sysalmacen/mappers/VentCarritoMapperImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/pe/edu/upeu/sysalmacen/mappers/VentaDetalleMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/annotations/pe/edu/upeu/sysalmacen/mappers/VentaDetalleMapperImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/generated-sources/annotations/pe/edu/upeu/sysalmacen/mappers/VentaMapperImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/generated-sources/annotations/pe/edu/upeu/sysalmacen/mappers/VentaMapperImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pe/edu/upeu/sysalmacen/control/MarcaControllerIntegrateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pe/edu/upeu/sysalmacen/control/MarcaControllerWebTestClientTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/upeu/sysalmacen/control/MarcaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/upeu/sysalmacen/control/MarcaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/upeu/sysalmacen/repositorio/IMarcaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/upeu/sysalmacen/repositorio/IMarcaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/upeu/sysalmacen/servicio/IMarcaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/upeu/sysalmacen/servicio/IMarcaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pe/edu/upeu/sysalmacen/servicio/impl/MarcaServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pe/edu/upeu/sysalmacen/servicio/impl/MarcaServiceImp.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,37 +50,36 @@
   "keyToString": {
     "JUnit.All in SysAlmacen.executor": "Run",
     "JUnit.IMarcaRepositoryTest.executor": "Run",
+    "JUnit.MarcaControllerIntegrateTest.executor": "Run",
     "JUnit.MarcaControllerTest.executor": "Run",
     "JUnit.MarcaControllerTest.testSave_ReturnsCreatedStatusAndLocationHeader.executor": "Debug",
     "JUnit.MarcaServiceTest.executor": "Run",
     "JUnit.MarcaServiceTest.testDeleteByIdNonExistent.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.SysAlmacenApplication.executor": "Run",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/Despliegue/Recursos/Nueva carpeta/SysAlmacen",
+    "last_opened_file_path": "D:/proyec/SysAlmacen",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.All in SysAlmacen (1)">
-    <configuration name="All in SysAlmacen (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="SysAlmacen" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="TEST_OBJECT" value="package" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.MarcaControllerWebTestClientTest">
     <configuration name="All in SysAlmacen" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SysAlmacen" />
       <option name="PACKAGE_NAME" value="" />
@@ -182,6 +103,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MarcaControllerIntegrateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SysAlmacen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pe.edu.upeu.sysalmacen.control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pe.edu.upeu.sysalmacen.control" />
+      <option name="MAIN_CLASS_NAME" value="pe.edu.upeu.sysalmacen.control.MarcaControllerIntegrateTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MarcaControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SysAlmacen" />
       <extension name="coverage">
@@ -197,16 +133,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MarcaServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MarcaControllerWebTestClientTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SysAlmacen" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pe.edu.upeu.sysalmacen.servicio.*" />
+          <option name="PATTERN" value="pe.edu.upeu.sysalmacen.control.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pe.edu.upeu.sysalmacen.servicio" />
-      <option name="MAIN_CLASS_NAME" value="pe.edu.upeu.sysalmacen.servicio.MarcaServiceTest" />
+      <option name="PACKAGE_NAME" value="pe.edu.upeu.sysalmacen.control" />
+      <option name="MAIN_CLASS_NAME" value="pe.edu.upeu.sysalmacen.control.MarcaControllerWebTestClientTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -221,19 +157,19 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.All in SysAlmacen (1)" />
+        <item itemvalue="JUnit.MarcaControllerWebTestClientTest" />
+        <item itemvalue="JUnit.MarcaControllerIntegrateTest" />
         <item itemvalue="JUnit.All in SysAlmacen" />
         <item itemvalue="JUnit.IMarcaRepositoryTest" />
         <item itemvalue="JUnit.MarcaControllerTest" />
-        <item itemvalue="JUnit.MarcaServiceTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.26053.27" />
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.26053.27" />
+        <option value="bundled-jdk-9823dce3aa75-a94e463ab2e7-intellij.indexing.shared.core-IU-243.25659.59" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-IU-243.25659.59" />
       </set>
     </attachedChunks>
   </component>
@@ -250,8 +186,14 @@
       <workItem from="1744382582169" duration="4280000" />
       <workItem from="1744405091181" duration="5789000" />
       <workItem from="1744548842045" duration="3618000" />
-      <workItem from="1747170391424" duration="1276000" />
-      <workItem from="1747174822547" duration="137000" />
+      <workItem from="1745963554035" duration="96000" />
+      <workItem from="1745963691081" duration="89000" />
+      <workItem from="1746563146896" duration="1477000" />
+      <workItem from="1746564947770" duration="1337000" />
+      <workItem from="1746636172834" duration="26000" />
+      <workItem from="1747062561790" duration="26000" />
+      <workItem from="1747170301404" duration="4693000" />
+      <workItem from="1747778690557" duration="2862000" />
     </task>
     <servers />
   </component>

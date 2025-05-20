@@ -9,8 +9,8 @@ import pe.edu.upeu.sysalmacen.modelo.Cliente;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2025-05-13T17:20:40-0500",
-    comments = "version: 1.6.3, compiler: javac, environment: Java 17.0.14 (Oracle Corporation)"
+    date = "2025-05-20T17:52:55-0500",
+    comments = "version: 1.6.3, compiler: javac, environment: Java 17.0.12 (Oracle Corporation)"
 )
 @Component
 public class ClienteMapperImpl implements ClienteMapper {

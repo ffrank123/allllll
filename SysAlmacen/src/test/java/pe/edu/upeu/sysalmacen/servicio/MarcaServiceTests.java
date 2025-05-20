@@ -1,4 +1,4 @@
-package pe.edu.upeu.sysalmacen.Servicio;
+package pe.edu.upeu.sysalmacen.servicio;
 
 
 import org.assertj.core.api.Assertions;
